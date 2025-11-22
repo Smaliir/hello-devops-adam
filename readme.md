@@ -6,16 +6,26 @@ Ez a projekt egy minimalista Node.js alapú „Hello World” webalkalmazás, am
 - Build
 - Konténerizálás Dockerrel
 - DevContainer használata (választott plusz feladat)
+# Felhő szolgáltatás
+
+- Szolgáltató: Render.com
+- Deploy lépések:
+  1. Regisztráció Render-re GitHub fiókkal
+  2. Új Web Service létrehozása a GitHub repó alapján
+  3. Build Command: `npm install && npm run build`
+  4. Start Command: `npm start`
+ # Publikus URL: [https://hello-devops-adam.onrender.com](https://hello-devops-adam.onrender.com)
+
 
 ---
 
-## 📌 1. Alkalmazás
+# 1. Alkalmazás
 
 A projekt egy egyszerű HTTP szervert tartalmaz, amely a következő szöveget adja vissza:
 
 **„Hello DevOps!”**
 
-### ✔ Futtatás fejlesztői módban
+# Futtatás fejlesztői módban
 
 ```sh
 npm install
