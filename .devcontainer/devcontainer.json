@@ -1,0 +1,13 @@
+{
+  "name": "Hello DevOps Container",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "workspaceFolder": "/app",
+  "forwardPorts": [8080],
+  "postCreateCommand": "npm install",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/sh"
+  }
+}
