@@ -30,3 +30,5 @@ A projektem egy egyszerű HTTP szervert tartalmaz, amely a következő szöveget
 ```sh
 npm install
 npm start
+
+EIY77Z
