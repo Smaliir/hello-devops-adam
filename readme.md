@@ -1,11 +1,11 @@
-# Hello DevOps – Egyszerű „Hello World” alkalmazás
+# Hello DevOps! alkalmazás
 
-Ez a projekt egy minimalista Node.js alapú „Hello World” webalkalmazás, amelyen bemutathatók az alap DevOps lépések:
+Ez a projekt egy Node.js alapú „Hello World” webalkalmazás, amelyen bemutathatók az alap DevOps lépések:
 - Kódkészítés
 - Verziókövetés (trunk-based development)
 - Build
 - Konténerizálás Dockerrel
-- DevContainer használata (választott plusz feladat)
+- DevContainer használata (plusz feladat)
 # Felhő szolgáltatás
 
 - Szolgáltató: Render.com
