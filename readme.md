@@ -31,4 +31,4 @@ A projektem egy egyszerű HTTP szervert tartalmaz, amely a következő szöveget
 npm install
 npm start
 
-EIY77Z
+# EIY77Z
