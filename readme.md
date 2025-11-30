@@ -1,6 +1,6 @@
 # Hello DevOps! alkalmazás
 
-Ez a projekt egy Node.js alapú „Hello World” webalkalmazás, amelyen bemutathatók az alap DevOps lépések:
+A projektem egy Node.js alapú „Hello World” webalkalmazás, amelyen bemutathatom az alap DevOps lépéseket:
 - Kódkészítés
 - Verziókövetés (trunk-based development)
 - Build
@@ -21,7 +21,7 @@ Ez a projekt egy Node.js alapú „Hello World” webalkalmazás, amelyen bemuta
 
 # 1. Alkalmazás
 
-A projekt egy egyszerű HTTP szervert tartalmaz, amely a következő szöveget adja vissza:
+A projektem egy egyszerű HTTP szervert tartalmaz, amely a következő szöveget íratom ki:
 
 **„Hello DevOps!”**
 
