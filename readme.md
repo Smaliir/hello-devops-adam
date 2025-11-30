@@ -1,4 +1,4 @@
-# Hello DevOps! alkalmazás
+# Hello DevOps! alkalmazás EIY77Z
 
 A projektem egy Node.js alapú „Hello World” webalkalmazás, amelyen bemutathatom az alap DevOps lépéseket:
 - Kódkészítés
@@ -31,4 +31,4 @@ A projektem egy egyszerű HTTP szervert tartalmaz, amely a következő szöveget
 npm install
 npm start
 
-# EIY77Z
+
