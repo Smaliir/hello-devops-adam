@@ -19,7 +19,7 @@ A projektem egy Node.js alapú „Hello World” webalkalmazás, amelyen bemutat
 
 ---
 
-# 1. Alkalmazás
+#  Alkalmazás
 
 A projektem egy egyszerű HTTP szervert tartalmaz, amely a következő szöveget íratom ki:
 
